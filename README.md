@@ -2,6 +2,7 @@
 
 <p align='center'> Beautiful Colors Lookup </p>
 
+<p align='center'><sup>色々な色</sup></p>
 <pre align='center'>
 npx <b>iroiro</b> <em>&lt;color-name&gt;</em>
 </pre>
