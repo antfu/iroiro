@@ -1,6 +1,6 @@
 {
   "name": "iroiro",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
