@@ -1,5 +1,5 @@
 {
-  "name": "coloris-web",
+  "name": "iroiro-web",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "@iconify/iconify": "^2.0.0-rc.1",
+    "@types/matter-js": "^0.14.5",
     "@vueuse/core": "^4.0.0-beta.16",
+    "iroiro": "*",
+    "matter-js": "^0.14.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-beta.13"
   },

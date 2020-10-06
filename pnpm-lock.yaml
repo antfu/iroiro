@@ -28,7 +28,10 @@ importers:
   web:
     dependencies:
       '@iconify/iconify': 2.0.0-rc.1
+      '@types/matter-js': 0.14.5
       '@vueuse/core': 4.0.0-beta.16_vue@3.0.0
+      iroiro: 'link:..'
+      matter-js: 0.14.2
       vue: 3.0.0
       vue-router: 4.0.0-beta.13_vue@3.0.0
     devDependencies:
@@ -45,8 +48,11 @@ importers:
       '@iconify/iconify': ^2.0.0-rc.1
       '@iconify/json': ^1.1.236
       '@purge-icons/generated': ^0.4.1
+      '@types/matter-js': ^0.14.5
       '@vue/compiler-sfc': ^3.0.0
       '@vueuse/core': ^4.0.0-beta.16
+      iroiro: '*'
+      matter-js: ^0.14.2
       tailwindcss: ^1.8.10
       vite: ^1.0.0-rc.4
       vite-plugin-components: ^0.2.13
@@ -440,6 +446,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-RaE0B+14ToE4l6UqdarKPnXwVDuigfFv+5j9Dze/Nqr23yyuqdNvzcZi3xB+3Agvi5R4EOgAksfv3lXX4vBt9w==
+  /@types/matter-js/0.14.5:
+    dev: false
+    resolution:
+      integrity: sha512-WAGhTov24lyLzb53jwGtyeP4o9kCn3Vz5qs1Mciffc2+lYP12dbLgfZ3b0Z69sy30etV4+vCyXcU4wvCt9R6kw==
   /@types/mime/2.0.3:
     dev: true
     resolution:
@@ -2806,6 +2816,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-4CrMT5DOHTDk4HYDlzmwu4FVCcIYI8gauveasrdCu2IKIFOJ3f0v/8MDGJCDL9oD2ppz/Av1b0Nj345H9M+XIA==
+  /matter-js/0.14.2:
+    dev: false
+    resolution:
+      integrity: sha512-3ttVT8cJlQnGRjBa8MyVrGyvGmnmOkZ3YsyemIw+KwEEdVi70mo32FH1Eta2b3GfdDJFbMDRqyMQt4heNKBUEA==
   /media-typer/0.3.0:
     dev: true
     engines:
