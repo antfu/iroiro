@@ -1,5 +1,5 @@
 {
-  "name": "coloris",
+  "name": "iroiro",
   "version": "0.1.0",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
@@ -7,8 +7,15 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
-    "coloris": "bin/coloris.js"
+    "iroiro": "bin/iroiro.js",
+    "iro": "bin/iroiro.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfu/iroiro.git"
+  },
+  "bugs": "https://github.com/antfu/iroiro/issues",
+  "homepage": "https://github.com/antfu/iroiro#readme",
   "files": [
     "dist",
     "colors.json"
