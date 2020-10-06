@@ -18,6 +18,7 @@
   "homepage": "https://github.com/antfu/iroiro#readme",
   "files": [
     "dist",
+    "bin",
     "colors.json"
   ],
   "scripts": {
