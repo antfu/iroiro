@@ -8,7 +8,7 @@ npx <b>iroiro</b> <em>&lt;color-name&gt;</em>
 </pre>
 
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/11247099/95219394-e8f43f80-0827-11eb-94ec-6c57221a3c27.png" width='550'/>
+<img src="https://user-images.githubusercontent.com/11247099/95227462-b9960080-0830-11eb-89c7-2a27b65566fb.png" width='550'/>
 </p>
 
 > Color data cited: *The Traditional Colors of Japan*. PIE BOOKS, 2007.
