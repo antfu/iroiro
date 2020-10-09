@@ -16,7 +16,7 @@ items
       chalk
         .bgHex(i.value)
         .hex(i.lightness > 0.5 ? '#000000' : '#ffffff')(
-          `  ${i.value}  ${i.romanized}  ${i.name}  `,
+          `  ${i.value}  ${i.romanized.padEnd(6, ' ')}  ${i.name}  `,
         ),
     )
   })

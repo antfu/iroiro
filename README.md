@@ -1,6 +1,6 @@
 <h1 align='center'> iroiro </h1>
 
-<p align='center'> Beautiful Colors Lookup </p>
+<p align='center'> Beautiful Colors Lookup in CLI</p>
 
 <p align='center'><sup>色々な色</sup></p>
 <pre align='center'>
