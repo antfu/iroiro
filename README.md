@@ -13,6 +13,10 @@ npx <b>iroiro</b> <em>&lt;color-name&gt;</em>
 
 > Color data cited: *The Traditional Colors of Japan*. PIE BOOKS, 2007.
 
+## Related
+
+###[secai](https://github.com/Jungzl/secai) - 中国色彩, aka iroiro Chinese version.
+
 ## Sponsors
 
 This project is part of my <a href='https://github.com/antfu-sponsors'>Sponsor Program</a>
