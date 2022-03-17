@@ -15,7 +15,7 @@ npx <b>iroiro</b> <em>&lt;color-name&gt;</em>
 
 ## Related
 
-###[secai](https://github.com/Jungzl/secai) - 中国色彩, aka iroiro Chinese version.
+- [secai](https://github.com/Jungzl/secai) - 中国色彩 Chinese colors version of `iroiro` by [Jungzl](https://github.com/Jungzl).
 
 ## Sponsors
 
